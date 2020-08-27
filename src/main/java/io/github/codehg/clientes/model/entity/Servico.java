@@ -1,6 +1,7 @@
 package io.github.codehg.clientes.model.entity;
 
 
+import io.github.codehg.clientes.model.entity.Cliente;
 import lombok.Data;
 
 import javax.persistence.*;
