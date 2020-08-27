@@ -1,4 +1,4 @@
-package io.github.codehg;
+package io.github.codehg.clientes;
 
 
 import org.springframework.boot.SpringApplication;
