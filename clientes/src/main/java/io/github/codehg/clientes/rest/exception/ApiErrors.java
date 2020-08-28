@@ -19,5 +19,4 @@ public class ApiErrors {
         this.errors = Arrays.asList(message);
     }
 
-
 }
